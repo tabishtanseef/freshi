@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  list-style: none;
+  font-family: 'Josefin Sans', sans-serif;
+}
+body{
+	background:#F5F5F5;
+}
+.hidden{
+	display:none;
+}
+.first{
+	margin-top:45px;
+}
+.second{
+	padding:20px;
+}
+
+.navbar{
+	position:fixed;
+	top:0;
+	z-index:9999;
+	background:#BC2C3D !important;
+	width:100%;
+	height:45px;
+}
+.category-text{
+	font-family: 'Roboto', sans-serif;
+	font-size:15px;
+	font-weight:500;
+	color:white;
+	margin-left:7px;
+	margin-top:2px;
+}
+.card{
+	padding:20px;
+	background:white;
+	width:100%;
+}
+h6{
+	font-family: 'Roboto', sans-serif;
+	font-weight:bold;
+	font-size:16px;
+	margin-bottom:-10px;
+}
+.welcom-back{
+	font-family: 'Roboto', sans-serif;
+	font-weight:bold;
+	font-size:16px;
+	width:100%;
+	height:100px;
+	background:#F5F5F5;
+	padding-left:25px;
+	padding-top:60px;
+}
+lable{
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	font-size:12px;
+}
+#show, #hide{
+	margin-top:40px;
+}
+.md-form{
+	margin-bottom:-10px;
+}
+.account-button-signup{
+	border-radius:10px;
+	height:46px;
+	width:90%;
+	margin-top:10px;
+	text-align:center;
+	background:#BC2C3D;
+	border: 2px solid #BC2C3D;
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	font-size:14px;
+	color:white;
+	overflow-x:auto;
+	margin-bottom:50px;
+}
+.account-button-signup{
+	border-radius:10px;
+	height:46px;
+	width:90%;
+	margin-top:10px;
+	text-align:center;
+	background:#BC2C3D;
+	border: 2px solid #BC2C3D;
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	font-size:14px;
+	color:white;
+	overflow-x:auto;
+	margin-bottom:50px;
+}
+.account-button-login{
+	border-radius:10px;
+	height:46px;
+	width:90%;
+	margin-top:220px;
+	text-align:center;
+	background:#BC2C3D;
+	border: 2px solid #BC2C3D;
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	font-size:14px;
+	color:white;
+	overflow-x:auto;
+	margin-bottom:50px;
+	
+}
+.forget-pass{
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	font-size:12px;
+	color:#BC2C3D;
+	margin-top:20px;
+	border:0px;
+	background:#fff;
+}
+input[type=text]{
+	color:black;
+	font-family: 'Roboto', sans-serif;
+	font-weight:500;
+	font-size:14px;
+	
+}
+label {
+  /* do something with the label */
+   font-family: 'Roboto', sans-serif;
+	font-weight:500;
+	font-size:10px;
+}
+
+
+
+

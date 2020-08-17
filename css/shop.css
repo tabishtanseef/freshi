@@ -1,0 +1,24 @@
+.cat-case{
+	padding:0px 8px;
+}
+.shopcat-images{
+	padding:0px;
+	width:100%;
+	border-radius:10px;
+	margin-top:12px;
+	margin-bottom:2px;
+}
+.cat-names{
+	font-family: 'Roboto', sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+}
+.shop-by{
+	margin-top:62px;
+	font-family: 'Roboto', sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	margin-left:12px;
+	margin-bottom:0px;
+}
